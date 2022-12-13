@@ -1,9 +1,9 @@
-Car-Detection-Using-YOLOv4-YOLOv5
+# Car-Detection-Using-YOLOv4-YOLOv5
 
 I got a dataset called "Car" from Kaggle, and it has about 1000 images. It only has a class called cars. This dataset was trained using YOLOv4 and YOLOv5, respectively. Both models are capable of detection. nonetheless, YOLOv4 is far superior to YOLOv5. Here is the dataset link: https://www.kaggle.com/datasets/sshikamaru/car-object-detection
 
 
-**Library**
+# *Library*
 Python
 Numpy
 matplotlib
@@ -16,13 +16,13 @@ pathlib
 
 
 
-**#Tools**
+# *Tools*
 Google Colab
 Visual Studio
 
 
 
-**#Deployment**
+# **Deployment**
 I utilised streamlit for deployment and took the following actions: -
 1. Make a folder.
 2. Create a file called requirements.txt, then add all of the necessary library information to it.
@@ -38,11 +38,11 @@ I utilised streamlit for deployment and took the following actions: -
 **#Frontend Output**
 
 
-**For YOLOv4**
+# **For YOLOv4**
 ![image](https://user-images.githubusercontent.com/66713603/207277132-71ee13e2-bde7-4bc7-aa9f-577497e1d7ba.png)
 
 
 
 
-**For YOLOv5-**
+# **For YOLOv5-**
 ![image](https://user-images.githubusercontent.com/66713603/207277273-910c249e-c619-492b-8520-512bfd7bd1c8.png)
