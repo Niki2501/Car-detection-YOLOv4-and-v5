@@ -1,8 +1,9 @@
-**Car-Detection-Using-YOLOv4-YOLOv5**
+Car-Detection-Using-YOLOv4-YOLOv5
+
 I got a dataset called "Car" from Kaggle, and it has about 1000 images. It only has a class called cars. This dataset was trained using YOLOv4 and YOLOv5, respectively. Both models are capable of detection. nonetheless, YOLOv4 is far superior to YOLOv5. Here is the dataset link: https://www.kaggle.com/datasets/sshikamaru/car-object-detection
 
 
-**#Library**
+**Library**
 Python
 Numpy
 matplotlib
